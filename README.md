@@ -6,7 +6,6 @@
 
 **My publications** https://zenodo.org/records/18761709 
 
-NIL (⊕): A Third Fundamental State for Information and Physical Reality
 ---
 
 ## About
