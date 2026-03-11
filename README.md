@@ -3,7 +3,8 @@
 **Status:** Active independent research | Ukraine | 2023–present  
 **Tools:** Claude AI, Claude Code, Python  
 **Collaboration:** Open to academic correspondence
-
+**My publications** https://zenodo.org/records/18761709 
+NIL (⊕): A Third Fundamental State for Information and Physical Reality
 ---
 
 ## About
